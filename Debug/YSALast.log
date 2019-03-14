@@ -1,0 +1,23 @@
+﻿  MyForm.cpp
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(238): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(239): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(253): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(254): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(255): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(256): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(268): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(269): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(270): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(271): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(315): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(322): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(330): warning C4244: '+=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(430): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(433): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(436): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(450): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(540): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(542): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(544): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysalast\ysalast\MyForm.h(545): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  YSALast.vcxproj -> C:\Users\Hp\source\repos\YSALast\Debug\YSALast.exe
